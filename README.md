@@ -1,6 +1,6 @@
-## The e-Learning Development Laboratory
-<br>
 ## PowerPoint generation tools using GPT or equivalent
+------------------------------------------------------------
+## The e-Learning Development Laboratory
 <br>
 <div style="font-weight:bold"> Course Info: Capstone Peoject</div>
 <br>

@@ -1,9 +1,7 @@
-# HKU MSc(Eng)(EEE) Project
+# HKU MSc(Eng)(EEE) Capstone Project
 
-PowerPoint generation tools using GPT or equivalent
-<br>
-A Study on User Experience in Social E-commerce based on Text Processing and Machine Learning
-
+## PowerPoint generation tools using GPT or equivalent
+## The e-Learning Development Laboratory
 <br>
 <div style="font-weight:bold"> Course Info: Capstone Peoject</div>
 <br>
